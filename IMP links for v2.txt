@@ -1,0 +1,26 @@
+https://www.youtube.com/watch?v=rpxZ87YFg0M
+http://selfdrivingcars.mit.edu/
+http://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf
+http://jacobgil.github.io/deeplearning/vehicle-steering-angle-visualizations
+http://medium.com/udacity/teaching-a-machine-to-steer-a-car-d73217f2492c
+http://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9
+Michael A. Nielsen, "Neural Networks and Deep Learning", Determination Press, 2015
+
+
+Generators:
+https://www.youtube.com/watch?v=bD05uGo_sVI
+https://keras.io/models/sequential/#fit_generator
+
+Augmentation:
+https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9
+
+Optimal Correction factor: 0.15
+
+Dropouts:
+https://pgaleone.eu/deep-learning/regularization/2017/01/10/anaysis-of-dropout/
+
+Callbacks:
+https://keras.io/callbacks/
+
+Udacity Prpject Review:
+https://review.udacity.com/?utm_medium=email&utm_campaign=ret_000_auto_ndxxx_submission-reviewed&utm_source=blueshift&utm_content=reviewsapp-submission-reviewed&bsft_clkid=3dd862ca-96de-47f7-ad4f-2544c7588164&bsft_uid=7e69cb19-c36a-496f-8e14-d63a2b8720ce&bsft_mid=0d084f02-8080-4f79-beed-25cf610f319f&bsft_eid=6f154690-7543-4582-9be7-e397af208dbd&bsft_txnid=4dfaf303-5d8b-440f-a46e-699020d3c282#!/reviews/959475
